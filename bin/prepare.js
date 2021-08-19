@@ -7,5 +7,5 @@ const zversion = require('z-version');
 zversion.update();
 shell.exec(`git add --all`);
 shell.exec(`git commit -m update`);
-shell.exec(`git push origin master`);
+shell.exec(`git push origin main`);
 console.log(`=> Done!\n`.green);
