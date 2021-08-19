@@ -14,8 +14,8 @@
 ## Install
 
 ```
-npm i z-git --save-dev
-yarn add z-git --dev
+npm i @zguillez/z-git --save-dev
+yarn add @zguillez/z-git --dev
 ```
 
 # Usage
