@@ -1,13 +1,13 @@
 {
   "name": "z-git",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "Tools for git repositories",
   "keywords": [
-    "ssh",
+    "git",
     "nodejs",
     "zguillez"
   ],
-  "repository": "https://github.com/zguillez/z-ssh",
+  "repository": "https://github.com/zguillez/z-git",
   "license": "MIT",
   "author": {
     "name": "Guillermo de la Iglesia",
