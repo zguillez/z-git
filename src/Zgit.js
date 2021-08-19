@@ -12,7 +12,7 @@ class Zgit {
    */
   push(message) {
     shell.exec(`git add --all`);
-    shell.exec(`git commit -m ${message}`);
+    shell.exec(`git commit -m "${message}"`);
     shell.exec(`git push origin main`);
   }
 }
