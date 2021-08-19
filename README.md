@@ -7,7 +7,7 @@
 
 > [Zguillez](https://zguillez.io) | Guillermo de la Iglesia
 
-## Tools for package files
+## Tools for git repositories
 
 # Getting Started
 
@@ -32,18 +32,16 @@ const zgit = require('z-git');
   }
 ```
 
-## Update package version
+## Push changes to repository
 
 ```
-zgit.update();
-zgit.update('minor');
-zgit.update('major');
+zgit.push();
+zgit.push('minor fixes');
 ```
 
 ```
-zgit --update
-zgit --update --minor
-zgit --update --major
+zgit --push
+zgit --push 'minor fixes'
 ```
 
 # Contributing and issues
