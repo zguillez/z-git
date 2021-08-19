@@ -36,12 +36,13 @@ const zgit = require('z-git');
 
 ```
 zgit.push();
-zgit.push('minor fixes');
+zgit.push('main', 'minor fixes');
 ```
 
 ```
 zgit --push
-zgit --push 'minor fixes'
+zgit --push --master 'minor fixes'
+zgit --push --main 'minor fixes'
 ```
 
 # Contributing and issues

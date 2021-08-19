@@ -2,11 +2,9 @@
 const zgit = require('./index');
 const argv = require('minimist')(process.argv.slice(2));
 if (argv.push) {
-  // if (argv.major) {
-  //   zgit.update('major');
-  // } else if (argv.minor) {
-  //   zgit.update('minor');
-  // } else {
-  //   zgit.update();
-  // }
+  if (argv.main) {
+    zgit.push('main', argv.push);
+  } else {
+    zgit.push('master', argv.push);
+  }
 }
