@@ -10,10 +10,10 @@ class Zgit {
   /**
    * Push to repository
    */
-  push(message) {
+  push(branch, message) {
     shell.exec(`git add --all`);
     shell.exec(`git commit -m "${message}"`);
-    shell.exec(`git push origin main`);
+    shell.exec(`git push origin ${branch}`);
   }
 }
 
