@@ -1,1 +1,2 @@
-{}
+{"/Users/zguillez/Documentos/Repositorios/_tools/z-git/src/Zgit.js": {"path":"/Users/zguillez/Documentos/Repositorios/_tools/z-git/src/Zgit.js","statementMap":{"0":{"start":{"line":2,"column":14},"end":{"line":2,"column":32}},"1":{"start":{"line":26,"column":0},"end":{"line":26,"column":28}}},"fnMap":{"0":{"name":"(anonymous_0)","decl":{"start":{"line":12,"column":2},"end":{"line":12,"column":3}},"loc":{"start":{"line":12,"column":24},"end":{"line":19,"column":3}},"line":12}},"branchMap":{},"s":{"0":1,"1":1},"f":{"0":0},"b":{},"_coverageSchema":"1a1c01bbd47fc00a2c39e90264f33305004495a9","hash":"30579b65a65de8674abaec0f1f571cb5b99ee975"}
+}
