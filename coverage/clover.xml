@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1656508957033" clover="3.2.0">
-  <project timestamp="1656508957034" name="All files">
+<coverage generated="1656508990524" clover="3.2.0">
+  <project timestamp="1656508990524" name="All files">
     <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0" elements="3" coveredelements="2" complexity="0" loc="2" ncloc="2" packages="1" files="1" classes="1"/>
     <file name="Zgit.js" path="/Users/zguillez/Documentos/Repositorios/_tools/z-git/src/Zgit.js">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
