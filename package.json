@@ -1,6 +1,6 @@
 {
   "name": "@zguillez/z-git",
-  "version": "0.1.31",
+  "version": "0.1.32",
   "description": "Tools for git repositories",
   "keywords": [
     "git",
@@ -22,11 +22,11 @@
     "clean": "find ./ -name .DS_Store -exec rm -f {} \\;",
     "deploy": "npm publish --access=public",
     "example": "node ./example/index.js",
+    "git": "zgit --main --push ",
     "lint": "eslint index.js src/*.js bin/*.js --fix || true",
     "prepare": "npm run lint && npm run test && sort-package-json && bin/prepare.js",
     "test": "jest --coverage",
     "update": "npm run clean && npm run version && npm run git",
-    "git": "zgit --main --push ",
     "version": "zversion --update"
   },
   "dependencies": {
