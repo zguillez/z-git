@@ -1,6 +1,6 @@
 {
   "name": "@zguillez/z-git",
-  "version": "0.1.35",
+  "version": "0.1.36",
   "description": "Tools for git repositories",
   "keywords": [
     "git",
@@ -34,7 +34,7 @@
     "shelljs": "0.8.5"
   },
   "devDependencies": {
-    "@zguillez/z-git": "^0.1.25",
+    "@zguillez/z-git": "^0.1.35",
     "@zguillez/z-log": "^0.1.20",
     "@zguillez/z-version": "^9.0.1",
     "eslint": "8.34.0",
