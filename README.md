@@ -49,7 +49,7 @@ Original code licensed under [MIT](https://en.wikipedia.org/wiki/MIT_License) Op
 
 # Changelog
 
-### v0.1.32 (February 12, 2021)
+### v0.1.32 (February 12, 2023)
 
 * Update dependencies
 
