@@ -1,4 +1,4 @@
-#! /usr/local/bin/node
+#!/usr/bin/env node
 const zgit = require('./index');
 const argv = require('minimist')(process.argv.slice(2));
 if (argv.push) {

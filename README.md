@@ -1,10 +1,5 @@
 # z-git
 
-[![npm version](https://badge.fury.io/js/z-git.svg)](https://badge.fury.io/js/z-git)
-[![Build Status](https://travis-ci.org/zguillez/z-git.svg?branch=master)](https://travis-ci.org/zguillez/z-git)
-[![Installs](https://img.shields.io/npm/dt/z-git.svg)](https://coveralls.io/r/zguillez/z-git)
-[![Gitter](https://badges.gitter.im/zguillez/z-git.svg)](https://gitter.im/zguillez/z-git?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 > [Zguillez](https://zguillez.io) | Guillermo de la Iglesia
 
 ## Tools for git repositories
@@ -14,8 +9,7 @@
 ## Install
 
 ```
-npm i @zguillez/z-git --save-dev
-yarn add @zguillez/z-git --dev
+npm i @zguillez/z-git
 ```
 
 # Usage
@@ -45,15 +39,19 @@ zgit --main --push 'minor fixes'
 
 # Contributing and issues
 
-Contributors are welcome, please fork and send pull requests! If you have any ideas on how to make this project better then please submit an issue or send me an [email](mailto:mail@zguillez.io).
+Contributors are welcome, please fork and send pull requests! If you have any ideas on how to make this project better then please submit an issue or send me an [email](mailto:guillermo@delaiglesia.email).
 
 # License
 
-©2021 Zguillez.io
+©2023 Zguillez.IO
 
 Original code licensed under [MIT](https://en.wikipedia.org/wiki/MIT_License) Open Source projects used within this project retain their original licenses.
 
 # Changelog
+
+### v0.1.0 (August 19, 2021)
+
+* Initial commit
 
 ### v0.1.0 (August 19, 2021)
 
