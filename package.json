@@ -1,6 +1,6 @@
 {
   "name": "@zguillez/z-git",
-  "version": "0.1.32",
+  "version": "0.1.33",
   "description": "Tools for git repositories",
   "keywords": [
     "git",
